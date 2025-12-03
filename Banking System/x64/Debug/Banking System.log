@@ -1,0 +1,5 @@
+﻿  Banking System.cpp
+C:\Users\9obi\source\repos\Banking System\Banking System.cpp(59,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\9obi\source\repos\Banking System\Banking System.cpp(302,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\9obi\source\repos\Banking System\Banking System.cpp(364,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Banking System.vcxproj -> C:\Users\9obi\source\repos\Banking System\x64\Debug\Banking System.exe
